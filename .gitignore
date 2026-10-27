@@ -1,6 +1,14 @@
-/target
-
+# IDE conf
 .idea/
 .vscode/
 
+# system files
+.DS_Store
+
+# python files
 .venv
+__pycache__/
+*.pyc
+
+# secret file
+.env
